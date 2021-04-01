@@ -1,1 +1,1 @@
-Implementation of Newton and Lagrane Interpolating Polynomial using C-language
+Implementation of Newton and Lagrange Interpolating Polynomial using C-language
