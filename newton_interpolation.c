@@ -4,7 +4,7 @@
 
 /*
 
-    Note: some minor inconvience in input.
+    Note: some minor inconvenience in input.
 
     Input consists of entering x-points and then y-points.
     Thus, there will be two arrays of x and y-points, respectively.
